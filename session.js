@@ -1,2 +1,1 @@
-exports.command_queue = []
-exports.outputs = []
+exports.command_queue=[];exports.outputs=[];
